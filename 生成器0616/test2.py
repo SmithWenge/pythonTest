@@ -16,7 +16,7 @@ def fib(max):
         n = n + 1
     return 'done'
 
-g = fib(6)
+g = fib(6)	
 while True:
 	try:
 		x = next(g)
