@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# @Date    : 2017-06-15 10:11:33
+# @Author  : Sullivan (1980849329@qq.com)
+# @Link    : https://github.com/SmithWenge
+
 def add(x,y):
 	print(x + y)
 

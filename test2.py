@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# @Date    : 2017-06-15 10:11:33
+# @Author  : Sullivan (1980849329@qq.com)
+# @Link    : https://github.com/SmithWenge
+
 #命名关键字参数
 # *后面的参数被视为命名关键字参数。
 def persion(name, age, *, city, job):
